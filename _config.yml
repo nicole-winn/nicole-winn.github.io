@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Nicole Winn"
   avatar : "/assets/images/NicoleWinn_Headshot.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "STI/HIV Researcher @ Brown University | Dartmouth MPH'25"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
