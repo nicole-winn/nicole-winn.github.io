@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/NicoleWinn_Headshot.JPG"
   bio    : "STI/HIV Researcher @ Brown University <br> Dartmouth MPH'25"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"                         # ← replace with your website
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/winnnicole"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-9063-6763"
@@ -77,6 +77,9 @@ author:
       
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/winnnicole"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-9063-6763"
