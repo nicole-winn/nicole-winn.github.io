@@ -72,7 +72,7 @@ author:
       icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
       url: "https://www.ncbi.nlm.nih.gov/myncbi/nicole.winn.2/bibliography/public/"  # ← replace
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
+      icon: "as fa-fw fa-graduation-cap"            # or "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=YhoAPpsAAAAJ" 
       
 footer:
@@ -82,10 +82,10 @@ footer:
       url: "https://orcid.org/0000-0001-9063-6763"
     - label: "PubMed"
       icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
-      url: "https://pubmed.ncbi.nlm.nih.gov/?term=yourname"  # ← replace
+      url: "https://www.ncbi.nlm.nih.gov/myncbi/nicole.winn.2/bibliography/public/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=yourID" # ← replace
+      url: "https://scholar.google.com/citations?hl=en&user=YhoAPpsAAAAJ"
 
 defaults:
   # _posts
