@@ -1,0 +1,20 @@
+---
+layout: single
+author_profile: true
+title: "About Me"
+permalink: /
+---
+
+<br><br>
+
+I am an MPH-trained epidemiologist and research assistant at Brown University, working under the mentorship of **Dr. Jana Jarolimova, MD, MPH**. My work focuses on mixed-methods research in STI/HIV prevention and implementation science. I am preparing to apply to PhD programs in Epidemiology and Implementation Science.
+
+## Research Interests
+
+- Infectious disease epidemiology
+- Implementation science
+- Mixed-methods research
+- Antimicrobial resistance and stewardship
+- STI/HIV prevention and testing behaviors
+- Health equity and social determinants of infectious diseases
+- Behavioral interventions for infection prevention
