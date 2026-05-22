@@ -73,8 +73,8 @@ author:
       url: "https://pubmed.ncbi.nlm.nih.gov/?term=yourname"  # ← replace
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=yourID" # ← replace
-
+      url: "https://scholar.google.com/citations?hl=en&user=YhoAPpsAAAAJ" 
+      
 footer:
   links:
     - label: "ORCID"
