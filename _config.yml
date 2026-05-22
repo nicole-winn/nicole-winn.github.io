@@ -63,31 +63,31 @@ author:
   bio    : "STI/HIV Researcher @ Brown University <br> Dartmouth MPH'25"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/winnnicole"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-9063-6763"
     - label: "PubMed"
       icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
-      url: "https://www.ncbi.nlm.nih.gov/myncbi/nicole.winn.2/bibliography/public/"  # ← replace
+      url: "hhttps://pubmed.ncbi.nlm.nih.gov/?term=Nicole+Winn"  # ← replace
     - label: "Google Scholar"
-      icon: "as fa-fw fa-graduation-cap"            # or "fas fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"            # or "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=YhoAPpsAAAAJ" 
       
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/winnnicole"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-9063-6763"
     - label: "PubMed"
       icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
-      url: "https://www.ncbi.nlm.nih.gov/myncbi/nicole.winn.2/bibliography/public/"
+      url: "https://pubmed.ncbi.nlm.nih.gov/?term=Nicole+Winn"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
+      icon: "fas fa-fw fa-graduation-cap"            
       url: "https://scholar.google.com/citations?hl=en&user=YhoAPpsAAAAJ"
 
 defaults:
