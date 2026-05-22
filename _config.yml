@@ -60,32 +60,32 @@ plugins:
 author:
   name   : "Nicole Winn"
   avatar : "/assets/images/NicoleWinn_Headshot.JPG"
-  bio    : "STI/HIV Researcher @ Brown University | Dartmouth MPH'25"
+  bio    : "STI/HIV Researcher @ Brown University <br> Dartmouth MPH'25"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://"                         # ← replace with your website
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-9063-6763"
+    - label: "PubMed"
+      icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
+      url: "https://pubmed.ncbi.nlm.nih.gov/?term=yourname"  # ← replace
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=yourID" # ← replace
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-9063-6763"
+    - label: "PubMed"
+      icon: "fas fa-fw fa-book"              # or "fas fa-fw fa-file-alt"
+      url: "https://pubmed.ncbi.nlm.nih.gov/?term=yourname"  # ← replace
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"            # or "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=yourID" # ← replace
 
 defaults:
   # _posts
